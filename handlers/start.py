@@ -8,7 +8,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 @Client.on_message(command("start") & filters.private & ~filters.group & ~filters.edited)
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("")
+    await message.reply_sticker("https://telegra.ph//file/eb71290c9beba9dcda6c1.jpg")
     await message.reply_photo("
         photo=f"{START_IMG}",
         caption=f""" ** 𝗛𝗲𝗹𝗹𝗼 𝘀𝗶𝗿 {message.from_user.mention()} , 🥀\n\n
@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
                         "✅ 𝗜𝗻𝗹𝗶𝗻𝗲 ", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "💡 𝗚𝗶𝘁 𝗥𝗲𝗽𝗼 ", url="https://https://github.com/yashuXmusic/Mahadev-Sukoon-Music"
+                        "💡 𝗚𝗶𝘁 𝗥𝗲𝗽𝗼 ", url="https://te.legra.ph/file/db7c6b18567b5e81165ad.mp4"
                     )]
             ]
        ),

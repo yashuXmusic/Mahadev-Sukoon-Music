@@ -5,15 +5,14 @@ load_dotenv()
 que = {}
 admins = {}
 
-API_ID = getenv("API_ID", "17273188")
+API_ID = int(getenv("API_ID", "17273188"))
 API_HASH = getenv("API_HASH", "a2e5bb2b69d13ba7553941af16cc2d5b")
 BOT_TOKEN = getenv("BOT_TOKEN", "5754399511:AAFAQMd8eW42LrGUvW8SkSw6wM8C8UNa8HI")
 BOT_NAME = getenv("BOT_NAME","𝗦𝗨𝗞𝗢𝗢𝗡 𝗠𝗨𝗦𝗜𝗖")
 BOT_USERNAME = getenv("BOT_USERNAME", "SUKOON_MUSIC_BOT")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "NULL_CODER_BOT")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "INDIAN_STUDY_WARRIORS")
-CHANNEL_UPDATES = getenv("CHANNEL_UPDATES", "link_ki_duniya")
-DURATION_LIMIT = int(getenv("DURATION_LIMIT", "900"))
+CHANNEL_UPDATES = getenv("CHANNEL_UPDATES", "link_ki_du
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "900"))
 START_IMG = getenv("START_IMG", "https://graph.org/file/a3eabb1a41a8040561b1b.jpg")
 PING_IMG = getenv("PING_IMG", "https://graph.org/file/a3eabb1a41a8040561b1b.jpg")

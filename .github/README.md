@@ -3,7 +3,7 @@
     ──「 𝗠𝗮𝗵𝗮𝗱𝗲𝘃 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
    </h2>  
  <p align="center">   
-<img src="https://te.legra.ph/file/1ef8c37b037bcb687e2c3.jpg">   
+<img src="https://graph.org/file/a3eabb1a41a8040561b1b.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
  <a href="https://github.com/yashuXmusic/Mahadev-Sukoon-Music/stargazers"><img src="https://img.shields.io/github/stars/yashuXmusic/Mahadev-Sukoon-Music?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/yashuXmusic/Mahadev-Sukoon-Music/network/members"> <img src="https://img.shields.io/github/forks/yashuXmusic/Mahadev-Sukoon-Music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
